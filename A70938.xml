@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration or manifesto of George Racokzkie, Prince of Transylvania, to the states and peeres of Hvngarie together with the reasons added thereunto of his modern taking up to armes the 17 of February, Anno 1644 / George Racokzkie ...</title>
+            <author>Transylvania (Principality). Sovereign (1630-1648 : Rákóczi György I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70938</idno>
+            <idno type="STC">Wing R147</idno>
+            <idno type="STC">ESTC R2349</idno>
+            <idno type="EEBO-CITATION">12016571</idno>
+            <idno type="OCLC">ocm 12016571</idno>
+            <idno type="VID">52543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52543)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E49, no 28; or 456:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration or manifesto of George Racokzkie, Prince of Transylvania, to the states and peeres of Hvngarie together with the reasons added thereunto of his modern taking up to armes the 17 of February, Anno 1644 / George Racokzkie ...</title>
+                  <author>Transylvania (Principality). Sovereign (1630-1648 : Rákóczi György I)</author>
+                  <author>Rákóczi György I, Prince of Transylvania, 1593-1648.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Blackmore ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 28, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reel 237:E.49, no. 28 as Wing R147 and 456:11 as Wing G529 (entry cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of original in Thomason Collection, British Library, and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rákóczi György --  I, --  Prince of Transylvania, 1593-1648.</term>
+               <term>Thirty Years' War, 1618-1648 --  Sources.</term>
+               <term>Transylvania (Romania) --  History --  Sources.</term>
+               <term>Hungary --  History --  1526-1683 --  Sources.</term>
+               <term>Holy Roman Empire --  History --  1517-1648 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52543:1" rendition="simple:additions"/>
+            <p> THE DECLARATION OR, MANIFESTO OF <hi>George Racokzkie,</hi> Prince of <hi>Tranſylva<g ref="char:EOLhyphen"/>nia,</hi> to the STATES and PEERES of <hi>HVNGARIE;</hi>
+            </p>
+            <p>Together With the reaſons ad<g ref="char:EOLhyphen"/>ded thereunto of his mo<g ref="char:EOLhyphen"/>dern taking up of Armes the 17. of <hi>February, Anno</hi> 1644.</p>
+            <p>
+               <hi>George Racokzkie</hi> by the Grace of God, Prince of <hi>Tranſylvania,</hi> Lord of a part of the Kingdome of <hi>HVNGARIE,</hi> and Count of <hi>ZEKELLA.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>Edward Blackmore,</hi> and are to be ſold in <hi>Pauls</hi> Church-yard at the ſigne of the Angell, <hi>May</hi> 28. 1644.</p>
+            <pb facs="tcp:52543:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="3" facs="tcp:52543:2"/>
+            <head>The Declaration or Manifeſto OF <hi>George Racokzkie,</hi> Prince of <hi>Tranſylvania,</hi> to the States and Peeres of <hi>Hungarie: George Racokzkie</hi> by the grace of God, Prince of <hi>Tranſylvania,</hi> Lord of a part of the Kingdome of <hi>Hungarie,</hi> and Count of <hi>ZEKELLA;</hi>
+            </head>
+            <p>
+               <hi>To the right Honourable and right Worſhipfull; Our well-beloved LORDS and GENTRY, Greeting.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">H</seg>Ow precious, and of what high eſteeme there be with every one the liberty of the ſoule and body, hereof we need not to ſeeke afar off many examples, nor to write thereof to your Lordſhips in many words. The modern ſtate &amp; con<g ref="char:EOLhyphen"/>dition of the Occidentall Provinces, doth ſufficiently teſtifie it; which, to reduce the aforeſaid ineſtimable good to it's ancient State and condition, have counted for nothing all other Temporall and preci<g ref="char:EOLhyphen"/>ous goods; yea with hazarding, and quite loſing their own lives, doe not ceaſe as yet to fight for it. How ſeriouſly alſo the Countreyes of <hi>Portugall</hi> and <hi>Catalonia,</hi> who ſate under the Spaniſh power, and taken up A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes not in defence of the liberty of their ſoules, but only in defence of their temporall liberty do labour and endeavour to ſettle the ſame in the former condition of liberty, is not unknown to your Lordſhips, eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="4" facs="tcp:52543:3"/> my Countryman, the <hi>Hungarian,</hi> how much blood they have ſhed for it, yea how many of them have ſuffered death ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, We have ſufficient examples thereof. What troubles and miſeries O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nation<g ref="char:punc">▪</g> e<g ref="char:EOLhyphen"/>ſpecially ſinc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he yeare 1619. hath ſuffered in this caſe, hereof whole bundles of letters full of complaints are to be found with us. How often alſo<g ref="char:punc">▪</g> We have not only been admoniſhed, but alſo quite forced, aſwell by the Proteſtants, as by the Roman Catholicks, that Wee at laſt would a<g ref="char:EOLhyphen"/>waken, and remedie the grievances, becauſe otherwiſe, if the oppreſſion of the priviledges and liberties ſhould further encreaſe and enlarge it ſelf, Our Children and Poſterity would be forced to poſſeſſe a Kingdome hereafter, that had loſt all Liberty. We have been deſired alſo by ſome of the high Officers and Miniſters of the Crown which have diſcovered unto Us, that the Clergie intends to make the Kingdom of <hi>Hungarie</hi> he<g ref="char:EOLhyphen"/>reditarie Subject to the Houſe of <hi>Auſtria,</hi> and withal ſtrives to domineer both Spiritually and Temporally over the fellow Members of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Reli<g ref="char:EOLhyphen"/>gion, &amp; to keep them under. It is not unknown to your Lordſhips, how many complaints there have bin made againſt thoſe laſt Wils and Teſta<g ref="char:EOLhyphen"/>ment, that have bin forced from ſome, and thereby the lands and goods of the right natuall heir been alienated? The Clergy hath begun alſo to impropriate unto it ſelfe the chiefeſt Offices and places in the Frontier Townes of the Kingdome, and thus to pull fully out of the hands of the Temporall States and Peeres, that ſmall Prerogative which they had left unto them: But what ſhall I ſay of the waſhing of the common Re<g ref="char:EOLhyphen"/>venues of the whole Kingdom, and then the ruine following thereupon, which however muſt concern alſo the Clergie it ſelfe.</p>
+            <p>With what ſwiftneſſe or tricks alſo the Jeſuits are crept into the King<g ref="char:EOLhyphen"/>dome to the utmoſt ruine of the libertie thereof, &amp; of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion (which by all meanes and wayes is expreſſed) and with what un<g ref="char:EOLhyphen"/>juſtneſſe alſo in the Frontier Townes themſelves, thoſe, that have <hi>Iura Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>natus</hi> in the Churches, are troubled: hereof your Lordſhips have ſufficiently been enformed.</p>
+            <p>One of the Spirituall Prelates alſo, who is yet living with His Imperial Majeſties knowledge, hath deſired Us alſo by a confiding perſon, and in His Imperiall Majeſties name, promiſed unto Us to turne over alſo all Our lands and goods ſituated in the Kingdome of <hi>Hungarie,</hi> to Our Heirs and Succeſſors (which are as yet pawned to Us till they are
+<pb n="5" facs="tcp:52543:3"/> redeemed) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſhew unto Us yet greater and more graces and favour if We <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y give Our aſſent unto it, that <hi>Hungarie</hi> might be an Hereditary Kingdome to the houſe of <hi>Auſtria,</hi> but whereas neither<g ref="char:punc">▪</g> Our Conſcience nor alſo the zeale and love we beare to Our <hi>Hungarian</hi> na<g ref="char:EOLhyphen"/>tion could give way to it, We returned unto him that anſwer, as hath been ſee m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to an <hi>Hungarian</hi> Prince loving his native Countrey, and deſining the liberty of his Countrey.</p>
+            <p>Concerning the authority of the Palatine, it was laid thus, that nothing but the meer name was left to that office; though He do ſollicite ſome<g ref="char:EOLhyphen"/>thing for the good of the Countrey, yet he labours in vaine, yea withall is prohibited to do it. How zealous the Proteſtant States and Peeres as well in particular as in generall have been in the Dyet, <hi>Anno</hi> 1638. to ſollicite that their grievances might be redreſſed, but what effect after divers great charges and expences your Lordſhips have ſeen thereof, and enjoyed indeed, is ſufficiently manifeſt unto every one.</p>
+            <p>The decree which His Imperiall Majeſty cauſed to be imparted to the Proteſtant States and Peeres, is in <hi>Sp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in Our hands<g ref="char:punc">▪</g> but that not<g ref="char:EOLhyphen"/>withſtanding hereupon divers Churches and Miniſters houſes have bin taken away, and the Miniſters driven out of them; to repeat all would require a great deale more of time.</p>
+            <p>If we now conſider the violation of Our corporall liberties, We finde it, that the offices and places are conferred upon no Proteſtant fellow-Member of the Countrey, neither are they preſerred to any higher digni<g ref="char:EOLhyphen"/>ty, and if by chance one or other attains thereunto, yet he hath no ho<g ref="char:EOLhyphen"/>nour, truſt and credit with them. Moreover alſo though the Proteſtants have good right or claime to ſome requiſition, yet they labour to hinder therein in one or other way: Yea it happened alſo, that one that preten<g ref="char:EOLhyphen"/>ded a juſt cauſe to his Lands, notwithſtanding by reaſon of a pretended contrad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, went in extream danger of his life about it.</p>
+            <p>When the 13 Counties in Generall in the yeare 1640. 641. 643. petitioned his Imperiall Majeſtie and the Lord Palatine for the redresſing of their Grievances, what benefit &amp; profit got your Lordſhips by it? yea what unkind entertainment your Lordſhips Deputies had for deman<g ref="char:EOLhyphen"/>ding of their juſt cauſe, and with what ſharp and bitter words they have beene ſent away againe<g ref="char:punc">▪</g> your Lordſhips have ſtill in freſh memory; all which, how juſtly We took it to heart, ſo as well Our conſcience, as al<g ref="char:EOLhyphen"/>ſo
+<pb n="6" facs="tcp:52543:4"/> our duty <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the glory and ſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of God, and the love and zeale to the Libertie of Our native Country and Nation required Us, yea by ſome of the Proteſtant States and Peeres alſo, and not leſſe by ſome of the Ro<g ref="char:EOLhyphen"/>man Catholiques, We have beene exhorted upon Our ſoules ſalvation, and in a manner beene forced, that for defence of their Liberties We would riſe.</p>
+            <p>Wherefore We could ſuffer this no longer, nor ſee the apparant ruine and perdition of Our native Country and the oppreſſion of Our Nation, which before had tryed all meanes how theſe inconveniences by faire meanes might have beene remedied: What anſwer alſo have We lately returned to the Lord <hi>Keri Ianoſh</hi> upon the requeſt made unto Us in His Imperiall Majeſties name: How earneſtly We have entreat<g ref="char:EOLhyphen"/>ed and deſired, and what We have offered, your Lordſhips have ſuffici<g ref="char:EOLhyphen"/>ently underſtood by the ſaid anſwer, whereof a true Copie We have al<g ref="char:EOLhyphen"/>ready here before ſent to your Lordſhips.</p>
+            <p>We take God the Lord the ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cher of all hearts to Our witneſſe, and We dare write it alſo to your Lordſhips in very truth, that We have ta<g ref="char:EOLhyphen"/>ken up Arms not for Our own profit, nor out of a deſire of revenge, neither alſo for thoſe manifold wrongs and injuries done unto Us not laſtly out of an intention to reforme or perſecute Religion much leſſe to extirpate <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>:</hi> But that We onely intend to Erect againe the Statutes and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kingdome, to Reeſtabliſh the ſame, and to proceed accor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſame, inſomuch that every one without feare, trouble let or <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> openly may profeſſe and exerciſe that ſame wherein his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> appeaſed, and thereby alſo ſafely to enjoy the corporall Li<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Domineere and Rule over Conſciences doth not belong to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o God alone.</p>
+            <p>But being our dear God hath already graciouſly turned off from us ma<g ref="char:EOLhyphen"/>ny hinderances, w<hi rend="sup">ch</hi> herein principally have hitherto ſtood in our way, yea alſo drawne to Us the Outlandiſh hearts; We muſt needs conceive there<g ref="char:EOLhyphen"/>by that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is Gods will <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d providence, that to the ſervice of his glory We ſhall proce<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Liberty of Our Native Country, whereof the glo<g ref="char:EOLhyphen"/>ry <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endered <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o God and not to men. And We beleeve therefore firmely<g ref="char:punc">▪</g> that his divine Majeſtie without all doubt will grace this Deſigne with happy deſired iſſue, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne it with a joyfull end.</p>
+            <p>Wherefore We de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and exhort your Lordſhips friendly, that you
+<pb n="7" facs="tcp:52543:4"/> will be pleaſed in a zealous conſideration, that for your Lordſhips good, and upon the deſire and requeſt of many amongſt you We are riſen from Our peaceable Government and wholly quiet Native Country, and ta<g ref="char:EOLhyphen"/>ken up Armes, to afford your helping hands to the furtherance of this Worke, being in it ſelfe well pleaſing to God Almighty, that will tend to the benefit and profit not onely of your Lordſhips, but alſo of the whole Country, and of all the grieved Inhabitants thereof. And withall in this caſe to ſhew their love and zeale aſwell towards God, as towards the Proteſtant Religion and the Liberty of their Native Country; and as ſoone as you have received theſe letters, to ſend unto Us one of your good Friends and Fellow-Brethren, and thus to joyne with Us unani<g ref="char:EOLhyphen"/>mouſly in the commendable furtherance and expedition of this worke.</p>
+            <p>We aſſure all perſons, of what degree or qualitie ſoever they be, by Our true Chriſtian Faith and Truth, that in no way We will diſturbe or oppreſſe Religion, nor alſo that We have any intention to offend or trouble in the leaſt way Our deare Native Country and Nation, and ſo all and every one of you in Generall either now or in ſuture time in any R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, Libertie, or Immunitie, but rather that your Lordſhips according to your pleaſure may ſafely live, and yet further rejoyce in thoſe preci<g ref="char:EOLhyphen"/>ous Priviledges which have beene obtained long agoe with much blood.</p>
+            <p>No man ſhall alſo thinke, that if perhaps one or other hath done and ſhewed here before any wrong to Us, or committed any thing againſt Us whatſoever it bee, We would revenge Our ſelfe on him, and thus beare an ill will in Our heart for a future puniſhment; but rather that all and every the like wrong ſhall be buried in a perpetuall oblivion as if it had never happened or been done. We admoniſh therefore all and every one of what degree or qualitie ſoever he be, that no man retire out of the Country to another place, or forſake his Lands or Goods: for if by chance ſuch (which We doe not hope) ſhould be found, and We ſhould bee forced to ſeize upon their Goods, they may attribute the fault and loſſe which thereby they may receive to no man elſe, but to themſelves.</p>
+            <p>But in caſe your Lordſhips (againſt all hope and expectation) ſhould offer to doe contrary to that what hath beene ſaid above, We will pro<g ref="char:EOLhyphen"/>teſt hereby before God and his holy Angels, that We are not the cauſe
+<pb n="8" facs="tcp:52543:5"/> of the ruine and deſtruction which thereby will fall upon them; for other<g ref="char:EOLhyphen"/>wiſe We ſhould be forced alſo to draw to Us ſo much the more ſtronger Ayde, and the greater number of Souldiers from Our High and Mighty Emperour, if your Lordſhips ſhould oppoſe Us in the defence of Our Native Country, and not accommodate your ſelves unto Us, which Wee will not hope.</p>
+            <p>The God Almighty who rules and governes all the hearts, doe thus rule and direct the hearts and minds of your Lordſhips that you doe u<g ref="char:EOLhyphen"/>nanimouſly every one, putting in the meane time out of his mind all o<g ref="char:EOLhyphen"/>ther reſpects, afford unto Us your helping hands, for the obtaining of that wherein conſiſts every ones true proper benefit and profit, that, after that We have finiſhed this happy worke, and every one of Us attained to His intention, both you and your whole Poſterity may ſafely and peaceably enjoy both ſpirituall and corporall liberty till unto the end of the World, Amen. Given at Our Caſtle <hi>Calow</hi> the 17<hi rend="sup">th</hi> of <hi>February, Anno</hi> 1644.</p>
+            <closer>
+               <signed>Georgius Racokzkio</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is Printed according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
